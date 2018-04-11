@@ -3,7 +3,7 @@ title: 青山沟农家院
 SEOTitle: 青山沟农家院
 header-img: img/post-bg-desk.jpg
 email: qingshangounjy@163.com
-description: "欢迎来青山沟农家院做客"
+description: "欢迎来青山沟农家院做客，电话 13898454544"
 keyword: "青山沟, 农家院, 农家乐, 宽甸, 丹东, 辽宁"
 url: "https://qingshangounongjiayuan.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -98,17 +98,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+    # {
+    #     title: "WY",
+    #     href: "http://zhengwuyang.com"
+    # },{
+    #     title: "简书·BY",
+    #     href: "http://www.jianshu.com/u/e71990ada2fd"
+    # },{
+    #     title: "Apple",
+    #     href: "https://apple.com"
+    # },{
+    #     title: "Apple Developer",
+    #     href: "https://developer.apple.com/"
+    # }
 ]
