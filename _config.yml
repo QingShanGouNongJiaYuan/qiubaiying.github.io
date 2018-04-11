@@ -2,8 +2,8 @@
 title: 青山沟农家院
 SEOTitle: 青山沟农家院
 header-img: img/post-bg-desk.jpg
-email: qingshangounjy@163.com
-description: "欢迎来青山沟农家院做客，电话 13898454544"
+email: 13898454544
+description: " 欢迎来青山沟农家院做客，电话 13898454544"
 keyword: "青山沟, 农家院, 农家乐, 宽甸, 丹东, 辽宁"
 url: "https://qingshangounongjiayuan.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qingshangounongjiayuan/qingshangounongjiayuan.g
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "青山沟农家院，你最好的选择"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+# friends: [
     # {
     #     title: "WY",
     #     href: "http://zhengwuyang.com"
@@ -111,4 +111,4 @@ friends: [
     #     title: "Apple Developer",
     #     href: "https://developer.apple.com/"
     # }
-]
+# ]
